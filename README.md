@@ -50,5 +50,4 @@ Développeuse Web / WordPress
 
 # 🌐 Site Web Vitrine – Services Informatiques (WordPress)
 
-🔗 **Site en ligne** : [https://www.tonsite.ma
-](https://dev-fatimaezzahrac.pantheonsite.io/)
+🔗 **Site en ligne** : https://dev-fatimaezzahrac.pantheonsite.io/
