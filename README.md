@@ -44,5 +44,11 @@ Développeuse Web / WordPress
 
 ---
 
-## 📸 Aperçu du projet
+## 🖼️ Capture d’écran – Page d’accueil
 
+![Page d’accueil du site](/accueil.png)
+
+# 🌐 Site Web Vitrine – Services Informatiques (WordPress)
+
+🔗 **Site en ligne** : [https://www.tonsite.ma
+](https://dev-fatimaezzahrac.pantheonsite.io/)
